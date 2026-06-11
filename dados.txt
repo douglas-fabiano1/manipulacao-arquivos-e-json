@@ -1,0 +1,10 @@
+Felipe,41,Advogado,7300.20
+Luana,36,Arquiteta,8000.00
+Pedro,36,Programador,5000.10
+Carla,26,Estudante,0.00
+Fernando,38,Consultor,6500.45
+Juliana,30,Analista de TI,5500.30
+Ricardo,43,Gerente de Vendas,9200.00
+Renata,25,Psicóloga,4200.00
+Rafael,31,Marketing,4800.75
+Lúcia,27,Recepcionista,2700.90
