@@ -1,0 +1,24 @@
+Nome: Douglas Fabiano
+Idade: 38
+
+Nome: Maisa Fabiano
+Idade: 37
+
+Nome: Marcos Fabiano
+Idade: 58
+
+Nome: Rosa Fabiano
+Idade: 74
+
+Nome: Laércio
+Idade: 43
+
+Nome: Felipe
+Idade: 23
+
+Nome: Rafaela
+Idade: 25
+
+Nome: Bruno
+Idade: 36
+

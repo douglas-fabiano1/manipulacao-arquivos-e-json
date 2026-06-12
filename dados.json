@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "João",
+    "Idade": 28,
+    "Profissao": "Engenheiro",
+    "Salario": 5000.0
+  },
+  {
+    "Nome": "Maria",
+    "Idade": 34,
+    "Profissao": "Professora",
+    "Salario": 4200.5
+  },
+  {
+    "Nome": "Carlos",
+    "Idade": 45,
+    "Profissao": "Médico",
+    "Salario": 8900.0
+  },
+  {
+    "Nome": "Ana",
+    "Idade": 29,
+    "Profissao": "Veterinária",
+    "Salario": 10000.0
+  }
+]
