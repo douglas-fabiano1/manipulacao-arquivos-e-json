@@ -1,0 +1,22 @@
+[
+    {
+        "Matricula": "rm00007",
+        "Nome": "James",
+        "Media": 7.33,
+        "Notas": [
+            10.0,
+            8.0,
+            4.0
+        ]
+    },
+    {
+        "Matricula": "rm00069",
+        "Nome": "Soraia",
+        "Media": 9.42,
+        "Notas": [
+            10.0,
+            9.5,
+            8.75
+        ]
+    }
+]
